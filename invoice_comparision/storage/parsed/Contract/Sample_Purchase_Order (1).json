@@ -1,0 +1,30 @@
+{
+  "contract_number": "PO/2024/0456",
+  "seller_address": {
+    "name": "FreshFarms Produce Ltd",
+    "address_line": "88 Orchard Road",
+    "city": "Nashik",
+    "state_province_code": "Maharashtra",
+    "postal_code": 422003
+  },
+  "buyer_address": {
+    "name": "GreenLeaf Retail Pvt Ltd",
+    "address_line": "12 Park Street",
+    "city": "Mumbai",
+    "state_province_code": "Maharashtra",
+    "postal_code": 400001
+  },
+  "start_date": "2024-05-15",
+  "end_date": "2024-05-15",
+  "terms": "Delivery within 7 days. Payment within 15 days after delivery. Goods must be certified organic.",
+  "total_contract_value": 47250.0,
+  "payment_terms": {
+    "total_contract_value": 47250.0,
+    "payment_schedule": [
+      {
+        "milestone": "delivery",
+        "percentage": 100
+      }
+    ]
+  }
+}

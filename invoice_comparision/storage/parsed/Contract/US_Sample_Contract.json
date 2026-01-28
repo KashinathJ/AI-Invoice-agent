@@ -1,0 +1,34 @@
+{
+  "contract_number": "CTR/2024/0087",
+  "seller_address": {
+    "name": "BrightWave Marketing LLC",
+    "address_line": "456 Innovation Way",
+    "city": "Austin",
+    "state_province_code": "TX",
+    "postal_code": 73301
+  },
+  "buyer_address": {
+    "name": "Evergreen Retail Inc.",
+    "address_line": "123 Market Street",
+    "city": "San Francisco",
+    "state_province_code": "CA",
+    "postal_code": 94103
+  },
+  "start_date": "2024-05-01",
+  "end_date": "2024-10-31",
+  "terms": "Confidentiality obligations for both parties. Either party can terminate the agreement with 30 days' written notice. Disputes governed by the laws of the State of California.",
+  "total_contract_value": 30000.0,
+  "payment_terms": {
+    "total_contract_value": 30000.0,
+    "payment_schedule": [
+      {
+        "milestone": "advance",
+        "percentage": 50
+      },
+      {
+        "milestone": "completion",
+        "percentage": 50
+      }
+    ]
+  }
+}

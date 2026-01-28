@@ -1,0 +1,80 @@
+{
+  "po_number": "PO/2024/0456",
+  "shop_address": {
+    "name": "FreshFarms Produce Ltd",
+    "address_line": "88 Orchard Road",
+    "city": "Nashik",
+    "state_province_code": "Maharashtra",
+    "postal_code": 422003
+  },
+  "billing_address": {
+    "name": "GreenLeaf Retail Pvt Ltd",
+    "address_line": "12 Park Street",
+    "city": "Mumbai",
+    "state_province_code": "Maharashtra",
+    "postal_code": 400001
+  },
+  "product": [
+    {
+      "PRODUCT_DESCRIPTION": "Organic Apples",
+      "HSN": "0810",
+      "MRP": 150.0,
+      "GROSS_AMOUNT": 15000.0,
+      "DISCOUNT_RATE": 0.0,
+      "CGST_RATE": 0.0,
+      "CGST_AMOUNT": 0.0,
+      "SGST_RATE": 0.0,
+      "SGST_AMOUNT": 0.0,
+      "COUNT": 100,
+      "GST_RATE": 5.0,
+      "GST_AMOUNT": 2250.0,
+      "UNIT_ITEM_PRICE": 150.0,
+      "PRODUCT_TOTAL_PRICE": 15000.0,
+      "TAXABLE_AMOUNT": 15000.0,
+      "NET_AMOUNT": 15000.0
+    },
+    {
+      "PRODUCT_DESCRIPTION": "Organic Bananas",
+      "HSN": "0803",
+      "MRP": 60.0,
+      "GROSS_AMOUNT": 12000.0,
+      "DISCOUNT_RATE": 0.0,
+      "CGST_RATE": 0.0,
+      "CGST_AMOUNT": 0.0,
+      "SGST_RATE": 0.0,
+      "SGST_AMOUNT": 0.0,
+      "COUNT": 200,
+      "GST_RATE": 5.0,
+      "GST_AMOUNT": 2250.0,
+      "UNIT_ITEM_PRICE": 60.0,
+      "PRODUCT_TOTAL_PRICE": 12000.0,
+      "TAXABLE_AMOUNT": 12000.0,
+      "NET_AMOUNT": 12000.0
+    },
+    {
+      "PRODUCT_DESCRIPTION": "Organic Oranges",
+      "HSN": "0805",
+      "MRP": 120.0,
+      "GROSS_AMOUNT": 18000.0,
+      "DISCOUNT_RATE": 0.0,
+      "CGST_RATE": 0.0,
+      "CGST_AMOUNT": 0.0,
+      "SGST_RATE": 0.0,
+      "SGST_AMOUNT": 0.0,
+      "COUNT": 150,
+      "GST_RATE": 5.0,
+      "GST_AMOUNT": 2250.0,
+      "UNIT_ITEM_PRICE": 120.0,
+      "PRODUCT_TOTAL_PRICE": 18000.0,
+      "TAXABLE_AMOUNT": 18000.0,
+      "NET_AMOUNT": 18000.0
+    }
+  ],
+  "total_bill": {
+    "total": 45000.0,
+    "discount_amount": 0.0,
+    "tax_amount": 2250.0,
+    "delivery_charges": 0.0,
+    "final_total": 47250.0
+  }
+}
